@@ -1,5 +1,5 @@
 
-![welcomeformgif2](https://github.com/user-attachments/assets/0175d03a-3c84-4ffa-a9e3-90b64d0bcd0a)
+<img src="https://github.com/user-attachments/assets/0175d03a-3c84-4ffa-a9e3-90b64d0bcd0a" width="500" height="300" />
 
 
 - 👋 Hi, I’m Pelin
