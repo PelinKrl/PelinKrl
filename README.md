@@ -1,4 +1,7 @@
 
+![welcomeformgif2](https://github.com/user-attachments/assets/0175d03a-3c84-4ffa-a9e3-90b64d0bcd0a)
+
+
 - 👋 Hi, I’m Pelin
 - 👀 Passionate about frontend development.
 - 🌱 Currently interested into the world of machine learning.
