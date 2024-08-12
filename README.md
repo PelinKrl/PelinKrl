@@ -19,7 +19,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pelinkrl&show_icons=true&locale=en&layout=compact" alt="pelinkrl" /></p>
 
-![snake gif](https://github.com/PelinKrl/PelinKrl/blob/output/github-contribution-grid-snake.gif)
+
 
 <!---
 PelinKrl/PelinKrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
