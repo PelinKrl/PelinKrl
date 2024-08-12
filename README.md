@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f930c628-b4bb-478f-ad16-d0c5e36f3096)
 
 - 👋 Hi, I’m Pelin
 - 👀 Passionate about frontend development.
