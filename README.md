@@ -1,5 +1,6 @@
 
-<img src="https://github.com/user-attachments/assets/0175d03a-3c84-4ffa-a9e3-90b64d0bcd0a" width="700" height="300" />
+<img src="https://github.com/user-attachments/assets/3e1c8117-42da-4d7e-977b-1580a9ddc800" width="700" height="300" />
+
 
 
 - 👋 Hi, I’m Pelin
