@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m Pelin
-- 👀 Passionate about frontend development.
+- 🌟 Passionate about frontend development.
 - 🌱 Currently interested into the world of machine learning.
 - 🎨 I have a creative side—I'm into drawing and character design.
 - 📫 Feel free to reach out: pelin.sude02@gmail.com
